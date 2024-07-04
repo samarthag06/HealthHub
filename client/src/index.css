@@ -1,0 +1,42 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+.Form_container{
+
+   display: flex;
+
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+
+}
+
+.spinner{
+
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+justify-content: center;
+}
+
+
+
+.form_only{
+  border-left: 1px solid gray;
+  border-top: 1px solid gray;
+  border-right: 3px solid gray;
+  border-bottom: 3px solid gray;
+  padding : 30px;
+
+}
+
+.Alreadyuser{
+
+  text-align: center;
+}
